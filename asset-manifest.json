@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/randomperson.github.io/static/css/main.5921d42c.chunk.css",
+    "main.js": "/randomperson.github.io/static/js/main.e7fbaf73.chunk.js",
+    "main.js.map": "/randomperson.github.io/static/js/main.e7fbaf73.chunk.js.map",
+    "runtime-main.js": "/randomperson.github.io/static/js/runtime-main.08037714.js",
+    "runtime-main.js.map": "/randomperson.github.io/static/js/runtime-main.08037714.js.map",
+    "static/js/2.5e6cb5f4.chunk.js": "/randomperson.github.io/static/js/2.5e6cb5f4.chunk.js",
+    "static/js/2.5e6cb5f4.chunk.js.map": "/randomperson.github.io/static/js/2.5e6cb5f4.chunk.js.map",
+    "index.html": "/randomperson.github.io/index.html",
+    "precache-manifest.4005924d5a9a9e66ac23d0c596ea6cfb.js": "/randomperson.github.io/precache-manifest.4005924d5a9a9e66ac23d0c596ea6cfb.js",
+    "service-worker.js": "/randomperson.github.io/service-worker.js",
+    "static/css/main.5921d42c.chunk.css.map": "/randomperson.github.io/static/css/main.5921d42c.chunk.css.map",
+    "static/js/2.5e6cb5f4.chunk.js.LICENSE.txt": "/randomperson.github.io/static/js/2.5e6cb5f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08037714.js",
+    "static/js/2.5e6cb5f4.chunk.js",
+    "static/css/main.5921d42c.chunk.css",
+    "static/js/main.e7fbaf73.chunk.js"
+  ]
+}
